@@ -1,1 +1,1 @@
-# UltimateMods用サウンドデータ
+# UltimateMods用アセットバンドルデータ
