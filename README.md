@@ -4,5 +4,5 @@ This mod is not affiliated with Among Us or Innersloth LLC,
 <br>Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
 
 # Credits
-Bomb Sound<br>
-[SoundEffect Lab](https://soundeffect-lab.info/) in "戦闘[2]" - "爆発1"
+[SoundEffect Lab](https://soundeffect-lab.info/)<br>
+Bomb Sound: "戦闘[2]" - "爆発1"
